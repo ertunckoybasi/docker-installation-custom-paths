@@ -3,4 +3,4 @@ Simplify your Docker setup with this repository, providing scripts and guides fo
 
 Open windows terminal as Administrator. Goto the folder where "Docker Desktop Installer.exe" downloaded. And run
 
-start /w "" "Docker Desktop Installer.exe" install -accept-license  --installation-dir=D:\ProgramFiles\Docker
+### start /w "" "Docker Desktop Installer.exe" install -accept-license  --installation-dir=D:\ProgramFiles\Docker
